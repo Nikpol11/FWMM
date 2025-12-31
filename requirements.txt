@@ -3,6 +3,7 @@ filedialpy
 pyserial
 aiohttp
 numpy
+psutil
 
 # On Linux
 python_crontab

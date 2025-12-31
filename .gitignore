@@ -5,3 +5,8 @@ theme
 autopytoexe.json
 config.json
 .debug
+config.json
+.mmw
+.pyc
+test.py
+/widgets/__pycache__
